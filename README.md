@@ -1,6 +1,6 @@
 # UpTop
 
-UpTop 是一个轻量的 macOS 菜单栏监控工具。它可以显示 CPU 占用率、CPU 温度、GPU 占用率和实时网速。
+UpTop 是一个**非常轻量的 macOS 菜单栏监控工具**，显示 CPU 占用率、CPU 温度、GPU 占用率和实时网速。在 Apple M5 上构建的完整应用仅占约 **170 KB** 磁盘空间。
 
 ![UpTop 菜单栏截图，显示 CPU 占用率、CPU 温度、GPU 占用率及上传下载速度](docs/screenshot.png)
 
